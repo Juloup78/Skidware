@@ -17,7 +17,7 @@ V0.5
 
 [+]Sprint: MoveOnly, Omni
 
-[+] NoFall: TP, System32, MatrixBucket, Packet, groundspoof
+[+] NoFall: TP, Damage, MatrixBucket, Packet, groundspoof
 
 [+] altmanager
 
